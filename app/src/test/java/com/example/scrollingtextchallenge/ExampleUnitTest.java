@@ -1,4 +1,4 @@
-package com.example.scrollingtext;
+package com.example.scrollingtextchallenge;
 
 import org.junit.Test;
 

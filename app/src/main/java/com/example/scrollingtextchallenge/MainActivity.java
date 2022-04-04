@@ -1,4 +1,4 @@
-package com.example.scrollingtext;
+package com.example.scrollingtextchallenge;
 
 import androidx.appcompat.app.AppCompatActivity;
 
