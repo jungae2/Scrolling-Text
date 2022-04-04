@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.scrollingtext"
+        applicationId "com.example.scrolltexthomework"
         minSdk 22
         targetSdk 32
         versionCode 1

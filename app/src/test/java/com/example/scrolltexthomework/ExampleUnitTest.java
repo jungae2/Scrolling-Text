@@ -1,4 +1,4 @@
-package com.example.scrollingtext;
+package com.example.scrolltexthomework;
 
 import org.junit.Test;
 
